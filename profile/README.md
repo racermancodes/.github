@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/racermancodes/.github/main/RacerManLogo.jpg">
+<img src="https://raw.githubusercontent.com/racermancodes/.github/main/RacerManlogo.png">
